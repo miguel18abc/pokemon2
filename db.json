@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "type": ["Grass", "Poison"],
+    "img": "001.png"
+  },
+  { "id": 2, "name": "Ivysaur", "type": ["Grass", "Poison"], "img": "002.png" },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "type": ["Grass", "Poison"],
+    "img": "003.png"
+  },
+  { "id": 4, "name": "Charmander", "type": ["Fire"], "img": "004.png" },
+  { "id": 5, "name": "Charmeleon", "type": ["Fire"], "img": "005.png" },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "type": ["Fire", "Flying"],
+    "img": "006.png"
+  },
+  { "id": 7, "name": "Squirtle", "type": ["Water"], "img": "007.png" },
+  { "id": 8, "name": "Wartortle", "type": ["Water"], "img": "008.png" },
+  { "id": 9, "name": "Blastoise", "type": ["Water"], "img": "009.png" },
+  { "id": 10, "name": "Caterpie", "type": ["Bug"], "img": "010.png" },
+  { "id": 11, "name": "Metapod", "type": ["Bug"], "img": "011.png" },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "type": ["Bug", "Flying"],
+    "img": "012.png"
+  },
+  { "id": 13, "name": "Weedle", "type": ["Bug", "Poison"], "img": "013.png" },
+  { "id": 14, "name": "Kakuna", "type": ["Bug", "Poison"], "img": "014.png" },
+  { "id": 15, "name": "Beedrill", "type": ["Bug", "Poison"], "img": "015.png" },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "type": ["Normal", "Flying"],
+    "img": "016.png"
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "type": ["Normal", "Flying"],
+    "img": "017.png"
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "type": ["Normal", "Flying"],
+    "img": "018.png"
+  },
+  { "id": 19, "name": "Rattata", "type": ["Normal"], "img": "019.png" },
+  { "id": 20, "name": "Raticate", "type": ["Normal"], "img": "020.png" },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "type": ["Normal", "Flying"],
+    "img": "021.png"
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "type": ["Normal", "Flying"],
+    "img": "022.png"
+  },
+  { "id": 23, "name": "Ekans", "type": ["Poison"], "img": "023.png" },
+  { "id": 24, "name": "Arbok", "type": ["Poison"], "img": "024.png" },
+  { "id": 25, "name": "Pikachu", "type": ["Electric"], "img": "025.png" },
+  { "id": 26, "name": "Raichu", "type": ["Electric"], "img": "026.png" },
+  { "id": 27, "name": "Sandshrew", "type": ["Ground"], "img": "027.png" },
+  { "id": 28, "name": "Sandslash", "type": ["Ground"], "img": "028.png" },
+  { "id": 29, "name": "Nidoran♀", "type": ["Poison"], "img": "029.png" },
+  { "id": 30, "name": "Nidorina", "type": ["Poison"], "img": "030.png" }
+  ]
