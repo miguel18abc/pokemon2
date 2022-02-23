@@ -1,4 +1,5 @@
-[
+{
+  "pokemons": [
   {
     "id": 1,
     "name": "Bulbasaur",
@@ -75,3 +76,4 @@
   { "id": 29, "name": "Nidoran♀", "type": ["Poison"], "img": "029.png" },
   { "id": 30, "name": "Nidorina", "type": ["Poison"], "img": "030.png" }
   ]
+}
